@@ -5,8 +5,8 @@ STRING_SESSION=BQGMrxMAObevyzNJH1Te-9LJ7rj-D7Q0QQPF4QYX2jtfoCVAtW_0GYxr1T8BurL9s
 MUSIC_BOT_NAME=I love You 
 MONGO_DB_URL=mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority
 DURATION_LIMIT=120
-LOG_GROUP_ID=
-OWNER_ID=
+LOG_GROUP_ID=-1002046762474
+OWNER_ID=6248380377
 SUPPORT_CHANNEL=https://t.me/anime_x_god
 SUPPORT_GROUP=https://t.me/anime_blue_group
 UPSTREAM_REPO=https://t.me/gojo_104
